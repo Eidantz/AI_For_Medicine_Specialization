@@ -28,7 +28,7 @@ There are 3 Courses in this Specialization:
   + Week 3
     + [Model Interpretation Methods](https://github.com/Eidantz/AI_For_Medicine_Specialization/tree/master/AI%20For%20Medical%20Treatment/Week%203%20-%20Model%20Interpretation%20Methods)
     
- :star: Yhose are my solutions. Do not submit as your own work.
+ :star: Those are my solutions. Do not submit as your own work.
  
 <kbd><img src="https://github.com/Eidantz/AI_For_Medicine_Specialization/blob/master/Certificates/JPG/Coursera%20A2KWB4H7BHX3.jpg" /></kbd>
 <kbd><img src="https://github.com/Eidantz/AI_For_Medicine_Specialization/blob/master/Certificates/JPG/Coursera%20NYMZ6AYAFG9A.jpg" /></kbd>
